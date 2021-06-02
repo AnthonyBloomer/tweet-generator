@@ -29,5 +29,5 @@ six==1.15.0
 soupsieve==2.0.1
 twint==2.1.20
 Unidecode==1.1.1
-urllib3==1.25.9
+urllib3==1.26.5
 yarl==1.4.2
